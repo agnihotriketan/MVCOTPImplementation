@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dpts.Web", "OTPImplementation\Dpts.Web.csproj", "{6BBB06C2-400D-4013-9639-55A3CBC9F20E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dpts.Web", "Dpts\Dpts.Web.csproj", "{6BBB06C2-400D-4013-9639-55A3CBC9F20E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dpts.Tests", "OTPImplementation.Tests\Dpts.Tests.csproj", "{4CDC09CE-8028-4F3A-9845-C1D47F651E59}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dpts.Tests", "Dpts.Tests\Dpts.Tests.csproj", "{4CDC09CE-8028-4F3A-9845-C1D47F651E59}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
