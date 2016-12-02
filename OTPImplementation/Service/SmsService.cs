@@ -3,7 +3,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNet.Identity;
 using Twilio;
 
-namespace OTPImplementation.Service
+namespace Dpts.Web.Service
 {
     public class SmsService : IIdentityMessageService
     {

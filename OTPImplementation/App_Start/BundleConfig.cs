@@ -1,6 +1,6 @@
 ﻿using System.Web.Optimization;
 
-namespace OTPImplementation
+namespace Dpts.Web
 {
     public class BundleConfig
     {

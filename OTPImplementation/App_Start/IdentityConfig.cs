@@ -1,14 +1,15 @@
 ﻿using System;
 using System.Security.Claims;
 using System.Threading.Tasks;
+using Dpts.Web.Models;
+using Dpts.Web.Service_References.ASPSMSX2;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin;
 using Microsoft.Owin.Security;
-using OTPImplementation.Models;
 
-namespace OTPImplementation
+namespace Dpts.Web
 {
     public class EmailService : IIdentityMessageService
     {
@@ -33,7 +34,7 @@ namespace OTPImplementation
             //Trace.TraceInformation(result.Status);
 
             //ASPSMS Begin
-            var soapSms = new OTPImplementation.ASPSMSX2.ASPSMSX2SoapClient("ASPSMSX2Soap");
+            var soapSms = new ASPSMSX2SoapClient("ASPSMSX2Soap");
             soapSms.SendSimpleTextSMS(
                 System.Configuration.ConfigurationManager.AppSettings["SMSAccountIdentification"],
                 System.Configuration.ConfigurationManager.AppSettings["SMSAccountPassword"],

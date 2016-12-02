@@ -2,12 +2,12 @@
 using System.Threading.Tasks;
 using System.Web;
 using System.Web.Mvc;
+using Dpts.Web.Models;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
-using OTPImplementation.Models;
 
-namespace OTPImplementation.Controllers
+namespace Dpts.Web.Controllers
 {
     [Authorize]
     public class AccountController : Controller

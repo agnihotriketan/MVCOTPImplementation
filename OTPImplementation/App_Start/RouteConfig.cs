@@ -1,7 +1,7 @@
 ﻿using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace OTPImplementation
+namespace Dpts.Web
 {
     public class RouteConfig
     {

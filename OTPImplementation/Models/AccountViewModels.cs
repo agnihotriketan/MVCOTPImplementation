@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
-namespace OTPImplementation.Models
+namespace Dpts.Web.Models
 {
     public class ExternalLoginConfirmationViewModel
     {

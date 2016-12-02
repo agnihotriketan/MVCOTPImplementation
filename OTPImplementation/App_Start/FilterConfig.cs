@@ -1,6 +1,6 @@
 ﻿using System.Web.Mvc;
 
-namespace OTPImplementation
+namespace Dpts.Web
 {
     public class FilterConfig
     {

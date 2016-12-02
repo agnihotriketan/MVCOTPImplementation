@@ -1,6 +1,6 @@
 ﻿using System.Web.Http;
 
-namespace OTPImplementation
+namespace Dpts.Web
 {
     public static class WebApiConfig
     {

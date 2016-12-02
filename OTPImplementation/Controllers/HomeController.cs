@@ -1,6 +1,6 @@
 ﻿using System.Web.Mvc;
 
-namespace OTPImplementation.Controllers
+namespace Dpts.Web.Controllers
 {
     [RequireHttps]
     public class HomeController : Controller

@@ -1,8 +1,9 @@
-﻿using Microsoft.Owin;
+﻿using Dpts.Web;
+using Microsoft.Owin;
 using Owin;
 
-[assembly: OwinStartupAttribute(typeof(OTPImplementation.Startup))]
-namespace OTPImplementation
+[assembly: OwinStartup(typeof(Startup))]
+namespace Dpts.Web
 {
     public partial class Startup
     {

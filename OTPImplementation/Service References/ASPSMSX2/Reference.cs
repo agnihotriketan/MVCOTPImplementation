@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace OTPImplementation.ASPSMSX2 {
+namespace Dpts.Web.Service_References.ASPSMSX2 {
     
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
@@ -108,10 +108,10 @@ namespace OTPImplementation.ASPSMSX2 {
         
         [System.ServiceModel.OperationContractAttribute(Action="https://webservice.aspsms.com/aspsmsx2.asmx/GetVoucherTransactions", ReplyAction="*")]
         [System.ServiceModel.XmlSerializerFormatAttribute(SupportFaults=true)]
-        OTPImplementation.ASPSMSX2.vouchers[] GetVoucherTransactions(string UserKey, string Password);
+        vouchers[] GetVoucherTransactions(string UserKey, string Password);
         
         [System.ServiceModel.OperationContractAttribute(Action="https://webservice.aspsms.com/aspsmsx2.asmx/GetVoucherTransactions", ReplyAction="*")]
-        System.Threading.Tasks.Task<OTPImplementation.ASPSMSX2.vouchers[]> GetVoucherTransactionsAsync(string UserKey, string Password);
+        System.Threading.Tasks.Task<vouchers[]> GetVoucherTransactionsAsync(string UserKey, string Password);
         
         [System.ServiceModel.OperationContractAttribute(Action="https://webservice.aspsms.com/aspsmsx2.asmx/GetStatusCodeDescription", ReplyAction="*")]
         [System.ServiceModel.XmlSerializerFormatAttribute(SupportFaults=true)]
@@ -217,12 +217,12 @@ namespace OTPImplementation.ASPSMSX2 {
     }
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
-    public interface ASPSMSX2SoapChannel : OTPImplementation.ASPSMSX2.ASPSMSX2Soap, System.ServiceModel.IClientChannel {
+    public interface ASPSMSX2SoapChannel : ASPSMSX2Soap, System.ServiceModel.IClientChannel {
     }
     
     [System.Diagnostics.DebuggerStepThroughAttribute()]
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
-    public partial class ASPSMSX2SoapClient : System.ServiceModel.ClientBase<OTPImplementation.ASPSMSX2.ASPSMSX2Soap>, OTPImplementation.ASPSMSX2.ASPSMSX2Soap {
+    public partial class ASPSMSX2SoapClient : System.ServiceModel.ClientBase<ASPSMSX2Soap>, ASPSMSX2Soap {
         
         public ASPSMSX2SoapClient() {
         }
@@ -347,11 +347,11 @@ namespace OTPImplementation.ASPSMSX2 {
             return base.Channel.CreateVoucherAsync(UserKey, Password, NumberOfVouchers, AmountCreditsPerVoucher, Remarks);
         }
         
-        public OTPImplementation.ASPSMSX2.vouchers[] GetVoucherTransactions(string UserKey, string Password) {
+        public vouchers[] GetVoucherTransactions(string UserKey, string Password) {
             return base.Channel.GetVoucherTransactions(UserKey, Password);
         }
         
-        public System.Threading.Tasks.Task<OTPImplementation.ASPSMSX2.vouchers[]> GetVoucherTransactionsAsync(string UserKey, string Password) {
+        public System.Threading.Tasks.Task<vouchers[]> GetVoucherTransactionsAsync(string UserKey, string Password) {
             return base.Channel.GetVoucherTransactionsAsync(UserKey, Password);
         }
         
