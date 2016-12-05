@@ -11,6 +11,7 @@ using Microsoft.AspNet.Identity.Owin;
 namespace Dpts.Web.Controllers
 {
     [Authorize(Roles = "SuperAdmin")]
+    [RequireHttps]
     public class RoleController : Controller
     {
         ApplicationDbContext context;
