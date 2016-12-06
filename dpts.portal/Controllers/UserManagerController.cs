@@ -1,9 +1,7 @@
 ﻿using System.Data.Entity;
-using System.Linq;
 using System.Net;
 using System.Threading.Tasks;
 using System.Web.Mvc;
-using dpts.portal.Controllers;
 using dpts.portal.Database;
 
 namespace dpts.portal.Controllers

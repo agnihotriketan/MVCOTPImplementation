@@ -160,7 +160,7 @@ namespace dpts.portal.Controllers
                 SetPageData();
                 if (user != null)
                 {
-                    this.UserManager.AddToRoleAsync(user.Id, rolename);
+                    this.UserManager.AddToRole(user.Id, rolename);
                     ViewBag.ResultMessage = "Role created successfully !";
                     return RedirectToAction("Index");
                 }
