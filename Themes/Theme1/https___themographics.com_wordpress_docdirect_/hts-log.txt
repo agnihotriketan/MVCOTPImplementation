@@ -1,0 +1,143 @@
+HTTrack3.48-22+htsswf+htsjava launched on Tue, 06 Dec 2016 11:44:36 at https://themographics.com/wordpress/docdirect/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://themographics.com/wordpress/docdirect/ -O1 "C:\My Web Sites\Theme1\https___themographics.com_wordpress_docdirect_" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:44:43	Warning: 	Note: due to https://themographics.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+11:46:19	Error: 	"Method Not Allowed" (405) at link https://themographics.com/wordpress/docdirect/xmlrpc.php (from https://themographics.com/wordpress/docdirect/)
+11:49:33	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/info@domain.com (from https://themographics.com/wordpress/docdirect/)
+11:49:43	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/wp-content/themes/docdirect/images/ie.png (from https://themographics.com/wordpress/docdirect/wp-content/themes/docdirect/style.css?ver=3.5)
+11:49:43	Warning: 	Moved Permanently for https://themographics.com/wordpress/docdirect/?p=147
+11:49:43	Warning: 	File has moved from https://themographics.com/wordpress/docdirect/?p=147 to https://themographics.com/wordpress/docdirect/home-2/
+11:49:43	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/home-2/info@domain.com (from https://themographics.com/wordpress/docdirect/home-2/)
+11:49:43	Warning: 	Moved Permanently for https://themographics.com/wordpress/docdirect/?p=627
+11:49:43	Warning: 	File has moved from https://themographics.com/wordpress/docdirect/?p=627 to https://themographics.com/wordpress/docdirect/home-3/
+11:49:43	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/home-3/info@domain.com (from https://themographics.com/wordpress/docdirect/home-3/)
+11:49:44	Warning: 	Moved Permanently for https://themographics.com/wordpress/docdirect/?p=262
+11:49:44	Warning: 	File has moved from https://themographics.com/wordpress/docdirect/?p=262 to https://themographics.com/wordpress/docdirect/dir-search/
+11:50:02	Error: 	"Not Found" (404) at link themographics.com/wordpress/docdirect/dir-search/info@domain.com (from themographics.com/wordpress/docdirect/dir-search/?directory_type=doctor)
+11:50:36	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/wp-content/uploads/2016/04/01-270x270.jpg (from themographics.com/wordpress/docdirect/dir-search/?directory_type=clinic)
+11:50:36	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/wp-content/uploads/2016/04/01-370x200.jpg (from themographics.com/wordpress/docdirect/dir-search/?directory_type=clinic)
+11:50:43	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/wp-content/uploads/2016/04/02-270x270.jpg (from themographics.com/wordpress/docdirect/dir-search/?directory_type=clinic)
+11:50:43	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/wp-content/uploads/2016/04/02-370x200.jpg (from themographics.com/wordpress/docdirect/dir-search/?directory_type=clinic)
+11:51:58	Warning: 	Moved Permanently for https://themographics.com/wordpress/docdirect/?p=213
+11:51:58	Warning: 	File has moved from https://themographics.com/wordpress/docdirect/?p=213 to https://themographics.com/wordpress/docdirect/blog-list/
+11:52:35	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/blog-list/info@domain.com (from https://themographics.com/wordpress/docdirect/blog-list/)
+11:52:35	Warning: 	Moved Permanently for https://themographics.com/wordpress/docdirect/?p=216
+11:52:35	Warning: 	File has moved from https://themographics.com/wordpress/docdirect/?p=216 to https://themographics.com/wordpress/docdirect/blog-grid/
+11:52:57	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/blog-grid/info@domain.com (from https://themographics.com/wordpress/docdirect/blog-grid/)
+11:52:57	Warning: 	Moved Permanently for https://themographics.com/wordpress/docdirect/?p=193
+11:52:57	Warning: 	File has moved from https://themographics.com/wordpress/docdirect/?p=193 to https://themographics.com/wordpress/docdirect/family-clinic/
+11:53:10	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/family-clinic/info@domain.com (from https://themographics.com/wordpress/docdirect/family-clinic/)
+11:53:10	Warning: 	Moved Permanently for https://themographics.com/wordpress/docdirect/?p=11
+11:53:10	Warning: 	File has moved from https://themographics.com/wordpress/docdirect/?p=11 to https://themographics.com/wordpress/docdirect/packages/
+11:53:10	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/packages/info@domain.com (from https://themographics.com/wordpress/docdirect/packages/)
+11:53:10	Warning: 	Moved Permanently for https://themographics.com/wordpress/docdirect/?p=17
+11:53:10	Warning: 	File has moved from https://themographics.com/wordpress/docdirect/?p=17 to https://themographics.com/wordpress/docdirect/contact-us/
+11:53:10	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/contact-us/info@domain.com (from https://themographics.com/wordpress/docdirect/contact-us/)
+11:53:10	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/popular/info@domain.com (from https://themographics.com/wordpress/docdirect/user/popular/)
+11:53:12	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/professional/info@domain.com (from https://themographics.com/wordpress/docdirect/user/professional/)
+11:53:12	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/steve/info@domain.com (from https://themographics.com/wordpress/docdirect/user/steve/)
+11:53:12	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/carol/info@domain.com (from https://themographics.com/wordpress/docdirect/user/carol/)
+11:53:12	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/giovanni/info@domain.com (from https://themographics.com/wordpress/docdirect/user/giovanni/)
+11:53:12	Warning: 	Moved Permanently for https://themographics.com/wordpress/docdirect/?p=178
+11:53:12	Warning: 	File has moved from https://themographics.com/wordpress/docdirect/?p=178 to https://themographics.com/wordpress/docdirect/yoga-centers/
+11:53:13	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/yoga-centers/info@domain.com (from https://themographics.com/wordpress/docdirect/yoga-centers/)
+11:53:15	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/richard/info@domain.com (from https://themographics.com/wordpress/docdirect/user/richard/)
+11:53:15	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/ella/info@domain.com (from https://themographics.com/wordpress/docdirect/user/ella/)
+11:53:15	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/delia/info@domain.com (from https://themographics.com/wordpress/docdirect/user/delia/)
+11:53:15	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/celia/info@domain.com (from https://themographics.com/wordpress/docdirect/user/celia/)
+11:53:15	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/dir-search/page/2/info@domain.com (from https://themographics.com/wordpress/docdirect/dir-search/page/2/?directory_type=doctor)
+11:53:15	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/redwood/info@domain.com (from https://themographics.com/wordpress/docdirect/user/redwood/)
+11:53:15	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/lawrence/info@domain.com (from https://themographics.com/wordpress/docdirect/user/lawrence/)
+11:53:15	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/lakedrive/info@domain.com (from https://themographics.com/wordpress/docdirect/user/lakedrive/)
+11:53:15	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/hill/info@domain.com (from https://themographics.com/wordpress/docdirect/user/hill/)
+11:53:15	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/greene/info@domain.com (from https://themographics.com/wordpress/docdirect/user/greene/)
+11:53:15	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/frankford/info@domain.com (from https://themographics.com/wordpress/docdirect/user/frankford/)
+11:53:15	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/cliftonavenue/info@domain.com (from https://themographics.com/wordpress/docdirect/user/cliftonavenue/)
+11:53:15	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/trustcare/info@domain.com (from https://themographics.com/wordpress/docdirect/user/trustcare/)
+11:53:15	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/mivine/info@domain.com (from https://themographics.com/wordpress/docdirect/user/mivine/)
+11:53:15	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/good-care/info@domain.com (from https://themographics.com/wordpress/docdirect/user/good-care/)
+11:53:17	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/express-care/info@domain.com (from https://themographics.com/wordpress/docdirect/user/express-care/)
+11:53:17	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/docclinic/info@domain.com (from https://themographics.com/wordpress/docdirect/user/docclinic/)
+11:53:17	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/wp-content/uploads/2016/04/01-365x365.jpg (from https://themographics.com/wordpress/docdirect/user/dcotors/)
+11:53:17	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/dcotors/info@domain.com (from https://themographics.com/wordpress/docdirect/user/dcotors/)
+11:53:17	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/careonline/info@domain.com (from https://themographics.com/wordpress/docdirect/user/careonline/)
+11:53:17	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/wp-content/uploads/2016/04/02-365x365.jpg (from https://themographics.com/wordpress/docdirect/user/ambias/)
+11:53:17	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/ambias/info@domain.com (from https://themographics.com/wordpress/docdirect/user/ambias/)
+11:53:17	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/dakota/info@domain.com (from https://themographics.com/wordpress/docdirect/user/dakota/)
+11:53:17	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/dahls/info@domain.com (from https://themographics.com/wordpress/docdirect/user/dahls/)
+11:53:17	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/cvs/info@domain.com (from https://themographics.com/wordpress/docdirect/user/cvs/)
+11:53:17	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/buehler/info@domain.com (from https://themographics.com/wordpress/docdirect/user/buehler/)
+11:53:17	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/bjs/info@domain.com (from https://themographics.com/wordpress/docdirect/user/bjs/)
+11:53:17	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/bartell/info@domain.com (from https://themographics.com/wordpress/docdirect/user/bartell/)
+11:53:17	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/atlas/info@domain.com (from https://themographics.com/wordpress/docdirect/user/atlas/)
+11:53:17	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/acme/info@domain.com (from https://themographics.com/wordpress/docdirect/user/acme/)
+11:53:17	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/shifa/info@domain.com (from https://themographics.com/wordpress/docdirect/user/shifa/)
+11:53:17	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/san/info@domain.com (from https://themographics.com/wordpress/docdirect/user/san/)
+11:53:17	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/marshall/info@domain.com (from https://themographics.com/wordpress/docdirect/user/marshall/)
+11:53:17	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/houchin/info@domain.com (from https://themographics.com/wordpress/docdirect/user/houchin/)
+11:53:17	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/hema/info@domain.com (from https://themographics.com/wordpress/docdirect/user/hema/)
+11:53:17	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/delta/info@domain.com (from https://themographics.com/wordpress/docdirect/user/delta/)
+11:53:17	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/bloodbank/info@domain.com (from https://themographics.com/wordpress/docdirect/user/bloodbank/)
+11:53:17	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/california/info@domain.com (from https://themographics.com/wordpress/docdirect/user/california/)
+11:53:17	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/blood/info@domain.com (from https://themographics.com/wordpress/docdirect/user/blood/)
+11:53:17	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/dumbells/info@domain.com (from https://themographics.com/wordpress/docdirect/user/dumbells/)
+11:53:17	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/smart/info@domain.com (from https://themographics.com/wordpress/docdirect/user/smart/)
+11:53:17	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/slim/info@domain.com (from https://themographics.com/wordpress/docdirect/user/slim/)
+11:53:17	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/nowe/info@domain.com (from https://themographics.com/wordpress/docdirect/user/nowe/)
+11:53:17	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/island/info@domain.com (from https://themographics.com/wordpress/docdirect/user/island/)
+11:53:17	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/hilton/info@domain.com (from https://themographics.com/wordpress/docdirect/user/hilton/)
+11:53:17	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/great/info@domain.com (from https://themographics.com/wordpress/docdirect/user/great/)
+11:53:17	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/better/info@domain.com (from https://themographics.com/wordpress/docdirect/user/better/)
+11:53:17	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/dir-search/page/3/info@domain.com (from https://themographics.com/wordpress/docdirect/dir-search/page/3/?view=list)
+11:53:17	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/dir-search/page/4/info@domain.com (from https://themographics.com/wordpress/docdirect/dir-search/page/4/?view=list)
+11:53:17	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/dir-search/page/5/info@domain.com (from https://themographics.com/wordpress/docdirect/dir-search/page/5/?view=list)
+11:53:17	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/dir-search/page/6/info@domain.com (from https://themographics.com/wordpress/docdirect/dir-search/page/6/?view=list)
+11:53:17	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/anna/info@domain.com (from https://themographics.com/wordpress/docdirect/user/anna/)
+11:53:17	Warning: 	Moved Permanently for https://themographics.com/wordpress/docdirect/?p=182
+11:53:17	Warning: 	File has moved from https://themographics.com/wordpress/docdirect/?p=182 to https://themographics.com/wordpress/docdirect/dermatology-clinic/
+11:53:18	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/dermatology-clinic/info@domain.com (from https://themographics.com/wordpress/docdirect/dermatology-clinic/)
+11:53:18	Warning: 	Moved Permanently for https://themographics.com/wordpress/docdirect/?p=180
+11:53:18	Warning: 	File has moved from https://themographics.com/wordpress/docdirect/?p=180 to https://themographics.com/wordpress/docdirect/children-clinic/
+11:53:18	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/children-clinic/info@domain.com (from https://themographics.com/wordpress/docdirect/children-clinic/)
+11:53:18	Warning: 	Moved Permanently for https://themographics.com/wordpress/docdirect/?p=179
+11:53:18	Warning: 	File has moved from https://themographics.com/wordpress/docdirect/?p=179 to https://themographics.com/wordpress/docdirect/athletic-clubs/
+11:53:18	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/athletic-clubs/info@domain.com (from https://themographics.com/wordpress/docdirect/athletic-clubs/)
+11:53:22	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/blog-list/page/2/info@domain.com (from https://themographics.com/wordpress/docdirect/blog-list/page/2/)
+11:53:22	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/category/directory/info@domain.com (from https://themographics.com/wordpress/docdirect/category/directory/)
+11:53:22	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/category/medical/info@domain.com (from https://themographics.com/wordpress/docdirect/category/medical/)
+11:53:22	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/category/responsive/info@domain.com (from https://themographics.com/wordpress/docdirect/category/responsive/)
+11:53:22	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/category/unique/info@domain.com (from https://themographics.com/wordpress/docdirect/category/unique/)
+11:53:22	Warning: 	Moved Permanently for https://themographics.com/wordpress/docdirect/?p=177
+11:53:22	Warning: 	File has moved from https://themographics.com/wordpress/docdirect/?p=177 to https://themographics.com/wordpress/docdirect/orthopedic-surgeon/
+11:53:22	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/orthopedic-surgeon/info@domain.com (from https://themographics.com/wordpress/docdirect/orthopedic-surgeon/)
+11:53:22	Warning: 	Moved Permanently for https://themographics.com/wordpress/docdirect/?p=176
+11:53:22	Warning: 	File has moved from https://themographics.com/wordpress/docdirect/?p=176 to https://themographics.com/wordpress/docdirect/pilates-centers/
+11:53:22	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/pilates-centers/info@domain.com (from https://themographics.com/wordpress/docdirect/pilates-centers/)
+11:53:22	Warning: 	Moved Permanently for https://themographics.com/wordpress/docdirect/?p=175
+11:53:22	Warning: 	File has moved from https://themographics.com/wordpress/docdirect/?p=175 to https://themographics.com/wordpress/docdirect/nutritionist/
+11:53:22	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/nutritionist/info@domain.com (from https://themographics.com/wordpress/docdirect/nutritionist/)
+11:53:22	Warning: 	Moved Permanently for https://themographics.com/wordpress/docdirect/?p=173
+11:53:22	Warning: 	File has moved from https://themographics.com/wordpress/docdirect/?p=173 to https://themographics.com/wordpress/docdirect/gyms/
+11:53:22	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/gyms/info@domain.com (from https://themographics.com/wordpress/docdirect/gyms/)
+11:53:22	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/blog-grid/page/2/info@domain.com (from https://themographics.com/wordpress/docdirect/blog-grid/page/2/)
+11:53:22	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/tag/directory/info@domain.com (from https://themographics.com/wordpress/docdirect/tag/directory/)
+11:53:22	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/tag/medical/info@domain.com (from https://themographics.com/wordpress/docdirect/tag/medical/)
+11:53:22	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/tag/responsive/info@domain.com (from https://themographics.com/wordpress/docdirect/tag/responsive/)
+11:53:22	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/tag/unique/info@domain.com (from https://themographics.com/wordpress/docdirect/tag/unique/)
+11:53:22	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/docdirect-admin/info@domain.com (from https://themographics.com/wordpress/docdirect/user/docdirect-admin/)
+11:53:22	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/popular/GET (from https://checkout.stripe.com/checkout.js?ver=3.5)
+11:53:22	Warning: 	Moved Temporarily for https://themographics.com/wordpress/docdirect/wp-admin/
+11:53:22	Warning: 	File has moved from https://themographics.com/wordpress/docdirect/wp-admin/ to https://themographics.com/wordpress/docdirect/wp-login.php?redirect_to=https%3A%2F%2Fthemographics.com%2Fwordpress%2Fdocdirect%2Fwp-admin%2F&reauth=1
+11:53:23	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/user/visitor/info@domain.com (from https://themographics.com/wordpress/docdirect/user/visitor/)
+11:53:23	Warning: 	Moved Permanently for https://themographics.com/wordpress/docdirect/?p=171
+11:53:23	Warning: 	File has moved from https://themographics.com/wordpress/docdirect/?p=171 to https://themographics.com/wordpress/docdirect/cardiology-clinic/
+11:53:23	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/cardiology-clinic/info@domain.com (from https://themographics.com/wordpress/docdirect/cardiology-clinic/)
+11:53:25	Error: 	"Not Found" (404) at link https://themographics.com/wordpress/docdirect/wp-admin/&reauth=1 (from https://themographics.com/wordpress/docdirect/wp-login.php?redirect_to=https%3A%2F%2Fthemographics.com%2Fwordpress%2Fdocdirect%2Fwp-admin%2F%26reauth=1)
+
+HTTrack Website Copier/3.48-22 mirror complete in 8 minutes 49 seconds : 783 links scanned, 668 files written (24480571 bytes overall) [26632337 bytes received at 50344 bytes/sec], 1781511 bytes transferred using HTTP compression in 15 files, ratio 20%, 6.8 requests per connection
+(95 errors, 37 warnings, 0 messages)
